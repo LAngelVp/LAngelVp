@@ -45,27 +45,27 @@
 
 ## 🛠️ STACK TECNOLOGICO
 ```
-**tech_stack_python** = {<br>
-  "languages": ["Python"],<br>
-  "frameworks": ["FastAPI", "Django"],<br>
-  "libraries": ["Pandas", "Polars", "NumPy", "Celery", "SciPy", "Matplotlib", "Plotly", "Scikit-learn", "TensorFlow/PyTorch", ],<br>
-  "data_processing": ["ETL Pipelines", "Automation Scripts"],<br>
-  "testing": ["Pytest", "unittest"]<br>
+tech_stack_python = {
+  "languages": ["Python"],
+  "frameworks": ["FastAPI", "Django"],
+  "libraries": ["Pandas", "Polars", "NumPy", "Celery", "SciPy", "Matplotlib", "Plotly", "Scikit-learn", "TensorFlow/PyTorch", ],
+  "data_processing": ["ETL Pipelines", "Automation Scripts"],
+  "testing": ["Pytest", "unittest"]
 }
 
-const **angular_expertise** = {<br>
-  "core": ["Angular 17+", "TypeScript", "RxJS"],<br>
-  "state_management": ["NgRx", "Services"],<br>
-  "ui_libraries": ["Angular Material", "Tailwind"],<br>
-  "testing": ["Jasmine", "Karma", "Cypress"],<br>
-  "optimization": ["Lazy Loading", "AOT Compilation"]<br>
+const angular_expertise = {
+  "core": ["Angular 17+", "TypeScript", "RxJS"],
+  "state_management": ["NgRx", "Services
+  "ui_libraries": ["Angular Material", "Tailwind"],
+  "testing": ["Jasmine", "Karma", "Cypress"],
+  "optimization": ["Lazy Loading", "AOT Compilation"]
 };
 
-public class **SalesforceStack** {<br>
-  String platform = "Salesforce";<br>
-  String[] development = {"Apex", "Visualforce", "Lightning Web Components", "Aura Web Component"};<br>
-  String[] tools = {"Salesforce CLI", "VS Code Extensions", "Workbench"};<br>
-  String[] concepts = {"Triggers", "Batch Classes", "SOQL", "SOSL"};<br>
-  String[] integrations = {"REST APIs", "SOAP APIs", "Platform Events"};<br>
+public class SalesforceStack {
+  String platform = "Salesforce";
+  String[] development = {"Apex", "Visualforce", "Lightning Web Components", "Aura Web Component"};
+  String[] tools = {"Salesforce CLI", "VS Code Extensions", "Workbench"};
+  String[] concepts = {"Triggers", "Batch Classes", "SOQL", "SOSL"};
+  String[] integrations = {"REST APIs", "SOAP APIs", "Platform Events"};
 }
 ```
